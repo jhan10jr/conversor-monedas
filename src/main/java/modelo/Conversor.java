@@ -62,7 +62,7 @@ public class Conversor {
             System.out.println();
             }else{
             
-               JOptionPane.showMessageDialog(null, "El valor ingresado no es un numero");
+               JOptionPane.showMessageDialog(null, "El valor ingresado no es correcto, por favor ingrese un valor ");
             }
            
            }
